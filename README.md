@@ -11,15 +11,23 @@ The Global Terrorism Database (GTD) is an open-source database that provides inf
 The exploratory data analysis in this repository focuses on understanding various aspects of global terrorism, including:
 
 **Temporal trends**: Analyzing the frequency of terrorist attacks over time, identifying any seasonal patterns or long-term trends.
+
 **Geospatial analysis:** Mapping the distribution of terrorist attacks worldwide to identify high-risk regions and hotspots.
+
 **Attack characteristics:** Examining the types of weapons and tactics commonly used in terrorist attacks.
+
 **Perpetrator analysis:** Investigating the characteristics of terrorist groups responsible for the attacks.
+
 **Impact assessment:** Assessing the human and economic impact of terrorist attacks through casualty and damage analysis.
 
 **Technologies Used**
 
 **Python:** Data manipulation, visualization, and analysis.
+
 **Pandas:** Data manipulation and analysis library.
+
 **Matplotlib and Seaborn:** Data visualization libraries.
+
 **Google Colab:** Interactive development environment for data analysis.
-Usage
+
+
