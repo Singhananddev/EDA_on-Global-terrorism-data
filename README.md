@@ -1,3 +1,6 @@
+![terrorism](https://github.com/user-attachments/assets/dac2890c-d173-41d7-b366-cc5c9635aed4)
+
+
 **Introduction**
 
 Terrorism is a global issue that affects societies worldwide. Understanding the patterns, trends, and factors associated with terrorist attacks is crucial for policymakers, researchers, and security professionals. This repository aims to provide insights into global terrorism through exploratory data analysis.
